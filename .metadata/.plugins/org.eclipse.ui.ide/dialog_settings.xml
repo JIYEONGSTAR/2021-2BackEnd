@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/jiyeong/Documents/박지영/3학년2학기/백엔드프레임워크 이승진/spring/hwA201814092"/>
+			<item value="/Users/jiyeong/Documents/박지영/3학년2학기/백엔드프레임워크 이승진/spring/hello2"/>
+			<item value="/Users/jiyeong/Documents/박지영/3학년2학기/백엔드프레임워크 이승진/spring/hello"/>
+		</list>
+	</section>
+</section>
